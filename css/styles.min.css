@@ -64,6 +64,10 @@ button:hover, button:focus, .button:hover, .button:focus {
   opacity: 0.8;
 }
 
+.contact-item {
+  padding: 0.3em;
+}
+
 .profile, .profile_about, .profile_contact {
   max-width: 700px;
   margin: 0 auto;
