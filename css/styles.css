@@ -235,13 +235,13 @@ button:focus,
   }
 }
 /* Media Queries for responsive design */
-@media all and (max-width: 501px) {
+@media all and (max-width: 505px) {
   .grid {
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr;
   }
 }
-@media all and (min-width: 501px) and (max-width: 750px) {
+@media all and (min-width: 505px) and (max-width: 750px) {
   .grid {
     -ms-grid-columns: 1fr 20px 1fr;
     grid-template-columns: 1fr 1fr;
