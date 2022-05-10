@@ -166,13 +166,6 @@ button:focus,
   margin-left: 1em;
 }
 
-/* Work Page */
-
-.work-img{
-  display: flex;
-  margin: 0 auto;
-}
-
 /* Grid */
 .grid {
   display: -ms-grid;
