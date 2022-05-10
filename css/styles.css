@@ -145,9 +145,8 @@ button:focus,
 }
 
 .page-header_item {
-  -webkit-box-flex: 0;
-  -ms-flex: 0 1 200px;
-  flex: 0 1 200px;
+  width: 300px;
+  height: auto;
 }
 
 .page-header_item:last-child {
