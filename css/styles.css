@@ -100,7 +100,7 @@ button:focus,
 .profile,
 .profile_about,
 .profile_contact {
-  max-width: 700px;
+  max-width: 1200px;
   margin: 0 auto;
   text-align: center;
 }
